@@ -1,19 +1,39 @@
-# Modelo Preditivo para Sucesso de Startups
+
+<div align="center">
+    <img src="assets/unicorn.png" alt="Unicorn Predictor Logo" width="1000"/>
+</div>
+<div align="center">
+<h1> Unicorn Predictor</h1>
+</div>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=300&size=18&pause=1000&color=E05A80&width=435&lines=Transformando+dados+em+vis%C3%A3o+de+futuro!)](https://git.io/typing-svg)
+
+</div>
+
+# Introdução
+
+No mundo das startups, poucas atingem o status lendário de unicórnios, empresas avaliadas em mais de um bilhão de dólares. Elas são raras, brilhantes e altamente desejadas pelos investidores.
+
+O projeto Unicorn Predictor nasce exatamente dessa ambição: usar inteligência artificial e dados para prever quais startups têm o potencial de alcançar esse patamar de sucesso. O nome reflete não apenas a exclusividade do objetivo, mas também a magia da inovação transformada em ciência de predição.
+
+Em um ecossistema onde apenas 1% das startups conseguem atingir uma avaliação de unicórnio, cada decisão de investimento carrega enormes riscos e recompensas. Este projeto representa uma tentativa de trazer metodologia científica para um campo tradicionalmente dominado por intuição e sorte, oferecendo aos investidores uma ferramenta baseada em dados históricos, padrões de crescimento e indicadores de sucesso comprovados.
 
 ## Visão Geral
 
-Este projeto desenvolve um modelo de machine learning para prever o sucesso de startups usando dados de financiamento, categoria de negócio, localização geográfica e marcos importantes. O modelo utiliza classificação binária para determinar se uma startup terá sucesso (labels = 1) ou não (labels = 0).
+Este projeto desenvolve um modelo de machine learning para prever o sucesso de startups usando dados de financiamento, categoria de negócio, localização geográfica e marcos importantes. O modelo utiliza classificação binária para determinar se uma startup terá sucesso (labels = 1) ou não (labels = 0), funcionando como um radar para identificar futuros unicórnios.
 
 ## Público-Alvo
 
-- **Investidores**: Para auxiliar em decisões de investimento
-- **Aceleradoras**: Para priorizar startups em processos de due diligence
-- **Empreendedores**: Para entender fatores críticos de sucesso
+- **Investidores**: Para auxiliar em decisões de investimento e identificação de oportunidades de alto potencial
+- **Aceleradoras**: Para priorizar startups em processos de due diligence e seleção de portfólio
+- **Empreendedores**: Para entender fatores críticos de sucesso e benchmarking contra unicórnios existentes
+- **Venture Capital**: Para otimização de estratégias de investimento e análise de risco
 
 ## Estrutura do Projeto
 
 ```
-modelo-preditivo-startups/
+unicorn-predictor/
 ├── startup_success_model.ipynb    # Notebook principal com análise completa
 ├── train.csv                      # Dados de treinamento
 ├── test.csv                       # Dados de teste
