@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="assets/unicorn.png" alt="Unicorn Predictor Logo" width="1000"/>
+    <img src="assets/unicorn-predictor-logo.png" alt="Unicorn Predictor Logo" width="200"/>
 </div>
 <div align="center">
 <h1> Unicorn Predictor</h1>
@@ -13,15 +13,15 @@
 
 # Introdução
 
-No mundo das startups, poucas atingem o status lendário de unicórnios, empresas avaliadas em mais de um bilhão de dólares. Elas são raras, brilhantes e altamente desejadas pelos investidores.
+&ensp;No mundo das startups, poucas atingem o status lendário de unicórnios, empresas avaliadas em mais de um bilhão de dólares. Elas são raras, brilhantes e altamente desejadas pelos investidores.
 
-O projeto Unicorn Predictor nasce exatamente dessa ambição: usar inteligência artificial e dados para prever quais startups têm o potencial de alcançar esse patamar de sucesso. O nome reflete não apenas a exclusividade do objetivo, mas também a magia da inovação transformada em ciência de predição.
+&ensp;O projeto Unicorn Predictor nasce exatamente dessa ambição: usar inteligência artificial e dados para prever quais startups têm o potencial de alcançar esse patamar de sucesso. O nome reflete não apenas a exclusividade do objetivo, mas também a magia da inovação transformada em ciência de predição.
 
-Em um ecossistema onde apenas 1% das startups conseguem atingir uma avaliação de unicórnio, cada decisão de investimento carrega enormes riscos e recompensas. Este projeto representa uma tentativa de trazer metodologia científica para um campo tradicionalmente dominado por intuição e sorte, oferecendo aos investidores uma ferramenta baseada em dados históricos, padrões de crescimento e indicadores de sucesso comprovados.
+&ensp;Em um ecossistema onde apenas 1% das startups conseguem atingir uma avaliação de unicórnio, cada decisão de investimento carrega enormes riscos e recompensas. Este projeto representa uma tentativa de trazer metodologia científica para um campo tradicionalmente dominado por intuição e sorte, oferecendo aos investidores uma ferramenta baseada em dados históricos, padrões de crescimento e indicadores de sucesso comprovados.
 
 ## Visão Geral
 
-Este projeto desenvolve um modelo de machine learning para prever o sucesso de startups usando dados de financiamento, categoria de negócio, localização geográfica e marcos importantes. O modelo utiliza classificação binária para determinar se uma startup terá sucesso (labels = 1) ou não (labels = 0), funcionando como um radar para identificar futuros unicórnios.
+&ensp;Este projeto desenvolve um **modelo de machine learning** para prever o sucesso de startups usando dados de financiamento, categoria de negócio, localização geográfica e marcos importantes. O modelo utiliza classificação binária para determinar se uma startup terá sucesso (labels = 1) ou não (labels = 0), funcionando como um radar para identificar futuros unicórnios.
 
 ## Público-Alvo
 
